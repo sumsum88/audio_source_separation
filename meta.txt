@@ -1,0 +1,345 @@
+
+    <b>入力信号 "ANiMAL - Clinic A" (DSD100 001)</b><br>
+
+    <table>
+        <tr>
+            <td width=400>
+                    入力信号<br>(Bass, Vocals)<br>
+    <audio src="./src/mix_301.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <b>Duong+DNNによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_301_duongdnn.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_301_duongdnn.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>DNN+WFによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/301_bass_wf.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/301_vocals_wf.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>ILRMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_301_ILRMA.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_301_ILRMA.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>IDLMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_301_idlma.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_301_idlma.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    
+
+    <b>入力信号 "ANiMAL - Rockshow" (DSD100 002)</b><br>
+
+    <table>
+        <tr>
+            <td width=400>
+                    入力信号<br>(Bass, Vocals)<br>
+    <audio src="./src/mix_302.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <b>Duong+DNNによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_302_duongdnn.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_302_duongdnn.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>DNN+WFによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/302_bass_wf.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/302_vocals_wf.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>ILRMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_302_ILRMA.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_302_ILRMA.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>IDLMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_302_idlma.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_302_idlma.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    
+
+    <b>入力信号 "Actions - One Minute Smile" (DSD100 003)</b><br>
+
+    <table>
+        <tr>
+            <td width=400>
+                    入力信号<br>(Bass, Vocals)<br>
+    <audio src="./src/mix_303.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <b>Duong+DNNによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_303_duongdnn.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_303_duongdnn.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>DNN+WFによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/303_bass_wf.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/303_vocals_wf.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>ILRMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_303_ILRMA.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_303_ILRMA.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>IDLMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_303_idlma.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_303_idlma.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    
+
+    <b>入力信号 "Al James - Schoolboy Facination" (DSD100 004)</b><br>
+
+    <table>
+        <tr>
+            <td width=400>
+                    入力信号<br>(Bass, Vocals)<br>
+    <audio src="./src/mix_304.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <b>Duong+DNNによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_304_duongdnn.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_304_duongdnn.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>DNN+WFによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/304_bass_wf.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/304_vocals_wf.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>ILRMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_304_ILRMA.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_304_ILRMA.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>IDLMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_304_idlma.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_304_idlma.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    
+
+    <b>入力信号 "Angela Thomas Wade - Milk Cow Blues" (DSD100 005)</b><br>
+
+    <table>
+        <tr>
+            <td width=400>
+                    入力信号<br>(Bass, Vocals)<br>
+    <audio src="./src/mix_305.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <b>Duong+DNNによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_305_duongdnn.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_305_duongdnn.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>DNN+WFによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/305_bass_wf.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/305_vocals_wf.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>ILRMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_305_ILRMA.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_305_ILRMA.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <b>IDLMAによる分離信号</b><br>
+    <table>
+        <tr>
+            <td>分離信号 1<br>(Bass)<br>
+    <audio src="./src/bass_305_idlma.mp3" preload="auto"></audio>
+            </td>
+            <td>分離信号 2<br>(Vocals)<br>
+    <audio src="./src/vocals_305_idlma.mp3" preload="auto"></audio>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    
