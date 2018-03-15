@@ -4,9 +4,13 @@ h2 {
 
 td {
     text-align: center;
-    width: 300;
+    width: 400;
 }
 
 b {
     align: center;
+}
+
+.audiojs {
+    width: 400;
 }
